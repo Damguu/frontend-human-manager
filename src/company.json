@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "company_name": "Babbleset",
+      "address": "7443 Oxford Circle",
+      "address_line2": "Apt 257"
+    },
+    {
+      "id": 2,
+      "company_name": "Ooba",
+      "address": "24 Quincy Street",
+      "address_line2": "Room 749"
+    },
+    {
+      "id": 3,
+      "company_name": "Devpulse",
+      "address": "77 Kenwood Trail",
+      "address_line2": "7th Floor"
+    }
+  ]
+  
