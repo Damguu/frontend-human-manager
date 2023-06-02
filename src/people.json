@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "lastName": "Poblacion",
+        "firstName": "Lance Gabriel",
+        "middleName": "Valenzuela",
+        "nickname": "Noicalbop",
+        "birthDate": "October 16, 2000",
+        "gender": "Male",
+        "address": {
+            "buildingNumber": "Building No.1",
+            "buildingName": "Building Name",
+            "street": "28th Street",
+            "city": "Iloilo City",
+            "province": "Iloilo",
+            "country": " Philippines",
+            "postal": "5000"
+        }
+    },
+    {
+        "id": 1,
+        "lastName": "Poblacion",
+        "firstName": "Lance Gabriel",
+        "middleName": "Valenzuela",
+        "nickname": "Noicalbop",
+        "birthDate": "October 16, 2000",
+        "gender": "Male",
+        "address": {
+            "buildingNumber": "Building No.1",
+            "buildingName": "Building Name",
+            "street": "28th Street",
+            "city": "Iloilo City",
+            "province": "Iloilo",
+            "country": " Philippines",
+            "postalCode": "5000"
+        }
+    },
+    {
+        "id": 1,
+        "lastName": "Poblacion",
+        "firstName": "Lance Gabriel",
+        "middleName": "Valenzuela",
+        "nickname": "Noicalbop",
+        "birthDate": "October 16, 2000",
+        "gender": "Male",
+        "address": {
+            "buildingNumber": "Building No.1",
+            "buildingName": "Building Name",
+            "street": "28th Street",
+            "city": "Iloilo City",
+            "province": "Iloilo",
+            "country": " Philippines",
+            "postalCode": "5000"
+        }
+    }
+]
